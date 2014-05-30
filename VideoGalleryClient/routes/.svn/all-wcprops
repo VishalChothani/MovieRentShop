@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/cmpe273/!svn/ver/83/source/VideoGalleryClient/routes
+END
+session-manager.js
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/cmpe273/!svn/ver/83/source/VideoGalleryClient/routes/session-manager.js
+END
+index.js
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/cmpe273/!svn/ver/32/source/VideoGalleryClient/routes/index.js
+END
+constants.js
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/cmpe273/!svn/ver/32/source/VideoGalleryClient/routes/constants.js
+END
+utility.js
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/cmpe273/!svn/ver/32/source/VideoGalleryClient/routes/utility.js
+END
+user.js
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/cmpe273/!svn/ver/3/source/VideoGalleryClient/routes/user.js
+END
+webservice-helper.js
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/cmpe273/!svn/ver/81/source/VideoGalleryClient/routes/webservice-helper.js
+END

@@ -1,0 +1,7 @@
+K 18
+svn:global-ignores
+V 13
+*
+*.settings
+
+END

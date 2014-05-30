@@ -1,0 +1,101 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/cmpe273/!svn/ver/91/source/VideoGalleryClient/views
+END
+SignIn.ejs
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/cmpe273/!svn/ver/88/source/VideoGalleryClient/views/SignIn.ejs
+END
+UserAccount.ejs
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/cmpe273/!svn/ver/91/source/VideoGalleryClient/views/UserAccount.ejs
+END
+editUserInfo.ejs
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/cmpe273/!svn/ver/64/source/VideoGalleryClient/views/editUserInfo.ejs
+END
+Movies.ejs
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/cmpe273/!svn/ver/80/source/VideoGalleryClient/views/Movies.ejs
+END
+Payment.ejs
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/cmpe273/!svn/ver/89/source/VideoGalleryClient/views/Payment.ejs
+END
+EditMovie.ejs
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/cmpe273/!svn/ver/68/source/VideoGalleryClient/views/EditMovie.ejs
+END
+NoLoginMovies.ejs
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/cmpe273/!svn/ver/60/source/VideoGalleryClient/views/NoLoginMovies.ejs
+END
+WelcomePage.ejs
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/cmpe273/!svn/ver/89/source/VideoGalleryClient/views/WelcomePage.ejs
+END
+CreateMovie.ejs
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/cmpe273/!svn/ver/80/source/VideoGalleryClient/views/CreateMovie.ejs
+END
+SignUp.ejs
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/cmpe273/!svn/ver/88/source/VideoGalleryClient/views/SignUp.ejs
+END
+Members.ejs
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/cmpe273/!svn/ver/91/source/VideoGalleryClient/views/Members.ejs
+END
+submitMovies.ejs
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/cmpe273/!svn/ver/91/source/VideoGalleryClient/views/submitMovies.ejs
+END
+generateBill.ejs
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/cmpe273/!svn/ver/62/source/VideoGalleryClient/views/generateBill.ejs
+END
+issueMovies.ejs
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/cmpe273/!svn/ver/80/source/VideoGalleryClient/views/issueMovies.ejs
+END
+moviesOfMembers.ejs
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/cmpe273/!svn/ver/80/source/VideoGalleryClient/views/moviesOfMembers.ejs
+END
+viewMyMovie.ejs
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/cmpe273/!svn/ver/87/source/VideoGalleryClient/views/viewMyMovie.ejs
+END

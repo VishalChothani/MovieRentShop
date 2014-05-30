@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/cmpe273/!svn/ver/89/source/VideoGalleryServer/routes/webservices
+END
+customer-movie.js
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/cmpe273/!svn/ver/89/source/VideoGalleryServer/routes/webservices/customer-movie.js
+END
+movie.js
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/cmpe273/!svn/ver/66/source/VideoGalleryServer/routes/webservices/movie.js
+END
+category.js
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/cmpe273/!svn/ver/66/source/VideoGalleryServer/routes/webservices/category.js
+END
+customer.js
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/cmpe273/!svn/ver/83/source/VideoGalleryServer/routes/webservices/customer.js
+END

@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/cmpe273/!svn/ver/93/source/VideoGalleryServer
+END
+package.json
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/cmpe273/!svn/ver/4/source/VideoGalleryServer/package.json
+END
+server.js
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/cmpe273/!svn/ver/72/source/VideoGalleryServer/server.js
+END
+README.md
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/cmpe273/!svn/ver/3/source/VideoGalleryServer/README.md
+END
+.project
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/cmpe273/!svn/ver/3/source/VideoGalleryServer/.project
+END
+.jshintrc
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/cmpe273/!svn/ver/3/source/VideoGalleryServer/.jshintrc
+END
